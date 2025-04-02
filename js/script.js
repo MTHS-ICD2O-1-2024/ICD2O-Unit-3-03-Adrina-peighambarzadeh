@@ -4,7 +4,7 @@
 
 // Created by: Adrina peighambarzadeh
 
-// Created on: Mar 2025
+// Created on: Apr 2025
 
 // This file contains the JS functions for index.html
 
