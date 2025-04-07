@@ -33,5 +33,5 @@ function calculateVolumesphere() {
   // output
 
   document.getElementById("answer").innerHTML =
-    "Volume is: " + volumeOfsphere.toFixed(2) + " mm³"
+    "Volume is: " + volumeOfsphere.toFixed(3) + " mm³"
 }
